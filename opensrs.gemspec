@@ -26,5 +26,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "shoulda"
   spec.add_development_dependency "nokogiri", '~> 1.8.1'
   spec.add_development_dependency "pry"
-  spec.add_development_dependency 'activesupport', '~> 4.2.2'
+  spec.add_development_dependency 'activesupport', '~> 7.0.4'
 end
